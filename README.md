@@ -1,8 +1,8 @@
-# 🧑‍💻 Internship Tasks Repository
+# 🧑‍💻 Tasks Repository
 
 ## 📚 Overview
 
-This repository contains the tasks completed during my internship, focused on practical cybersecurity and networking concepts. Each task is structured to demonstrate technical skills, real-world applications, and awareness of current security practices.
+This repository contains the tasks completed on the side, focused on practical cybersecurity and networking concepts. Each task is structured to demonstrate technical skills, real-world applications, and awareness of current security practices.
 
 ---
 
@@ -43,10 +43,6 @@ A professional phishing awareness training module designed to educate users on r
 - Social engineering tactics used by attackers
 - Best practices to stay protected
 - Interactive quiz to test awareness
-
-📄 Training File: [Phishing_Awareness_Training.pdf](https://github.com/hamethius/CodeAlpha_Internship_Tasks/blob/main/CodeAlpha_Phishing_Awareness_Training_Task2/Phishing_Awareness_Training.pdf)
-
-📖 README: [README.md](https://github.com/hamethius/CodeAlpha_Internship_Tasks/blob/main/CodeAlpha_Phishing_Awareness_Training_Task2/README.md)
 
 ---
 
